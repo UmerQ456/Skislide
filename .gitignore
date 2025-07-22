@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# appsettings.json is excluded from Git to hide personal passwords.
+API/appsettings.json
+
